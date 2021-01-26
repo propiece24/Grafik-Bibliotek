@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p5iNDfxH8aKcI8MfRnNHfCRMG28gIr6hmbOjw3v8V+lwTGRbCvXfvAxz98agNkeMqFha6lC0z+BuiRxUJu0Evg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andreas.larsson15\\Documents\\Programmering\\Grafik Bibliotek\\Grafik\\Grafik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andreas.larsson15\\.nuget\\packages\\raylib-cs\\3.1.5\\raylib-cs.3.1.5.nupkg.sha512",
+    "C:\\Users\\andreas.larsson15\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
